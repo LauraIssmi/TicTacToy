@@ -1,0 +1,4 @@
+#Tue Oct 22 16:44:19 WAT 2019
+base.0=H\:\\AndroidProject\\TicTacToy\\Local\\StartUp\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
